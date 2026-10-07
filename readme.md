@@ -7,7 +7,7 @@ Alat berbasis Python untuk melakukan perhitungan **dialektometri** (analisis per
 ## 📌 Fitur Utama
 
 1. **Pengumpulan Berkas Fleksibel**: Mengunggah beberapa berkas data leksikon dialektologi berformat Excel (`.xlsx`) secara bertahap dari berbagai folder.
-2. **Pra-pemrosesan Data Otomatis**: Membaca kolom kode konsep dan data berian/kosakata dari lembar kerja Excel berdasarkan rentang baris yang ditentukan (`START_ROW = 8` hingga `END_ROW = 1089`).
+2. **Pra-pemrosesan Data Otomatis**: Membaca kolom kode konsep dan data berian/kosakata dari lembar kerja Excel berdasarkan rentang baris yang ditentukan.
 3. **Pengkategorian Konsep Dinamis**: 
    - Deteksi khusus untuk kosakata *Swadesh (1001-1200)*.
    - Pengelompokan otomatis berdasarkan dua karakter pertama atau kategori leksikon standar.
